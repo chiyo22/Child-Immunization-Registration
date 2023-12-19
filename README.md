@@ -57,7 +57,7 @@ The Child Immunization Registration App is a mobile application developed using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/child-immunization-app.git
+   git clone https://github.com/chiyo22/Child-Immunization-Registration.git
 
 
 Navigate to the project directory:
